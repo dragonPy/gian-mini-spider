@@ -1,1 +1,1 @@
-# Gain-mini-spider
+# Gain-mini-spider for web
